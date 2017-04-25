@@ -1,0 +1,236 @@
+body {
+    direction: rtl;
+  
+background: rgb(229,112,231); 
+background: -moz-linear-gradient(left, rgba(229,112,231,1) 0%, rgba(210,107,224,1) 0%, rgba(244,164,96,1) 49%); 
+background: -webkit-linear-gradient(left, rgba(229,112,231,1) 0%,rgba(210,107,224,1) 0%,rgba(244,164,96,1) 49%);
+background: linear-gradient(to right, rgba(229,112,231,1) 0%,rgba(210,107,224,1) 0%,rgba(244,164,96,1) 49%); 
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#e570e7', endColorstr='#f4a460',GradientType=1 );
+       font-family: arial, helvetica, sans-serif;
+    font-size: 100%;
+   
+
+
+}
+
+
+
+.header {
+    width: 100%;
+    float: none;
+    padding-top: 1.5em;
+    padding-bottom:1.5em;
+    text-align: center;
+    background-color: white;
+    background-image: url('../images/555.png');
+    background-repeat: no-repeat;
+    margin-right: auto;
+    margin-left: auto;
+   margin-bottom:auto;
+    margin-top: auto;
+    width: 960px;
+     border-radius: 30px;
+   background-position-x:right;
+   background-position-y:top;
+   
+    
+}
+    .header h1 {
+        color:#4682B4;
+        font-weight: 250;
+        line-height: 0px;
+          font-size: 45px;
+        width: 100%;
+         padding-top:inherit;
+         padding-bottom:inherit;
+         letter-spacing: 0.11em;
+         margin-bottom:58px;
+         
+
+  
+
+    }
+
+
+
+
+.hadraha {
+   
+    color: #7EC0EE;
+    font-size: 25px;
+    width: 100%;
+    text-align: center;
+    float: none;
+    letter-spacing: 0.1em;
+    padding-bottom: 1.6em;
+  
+    
+  
+   
+}
+
+    .hadraha :hover{
+              color: #F4A460;
+       
+    }
+
+ .hadraha .tooltiptext {
+    visibility: hidden;
+    width: 200px;
+    background-color: #F4A460;
+    color:white;
+    text-align: center;
+    padding:  5px 0;
+    border-radius: 15px;
+    margin-left:6px;
+   
+   position:absolute;
+      font-size:18px;
+    z-index: 1;
+}
+
+
+    .hadraha:hover .tooltiptext {
+        visibility: visible;
+      
+    }
+
+
+
+.technologia {
+    color: #7EC0EE;
+    font-size: 25px;
+    width: 100%;
+    text-align: center;
+    float: none;
+    letter-spacing: 0.1em;
+    padding-bottom: 1.6em;
+  
+}
+           .technologia :hover{
+                color: #F4A460;
+ 
+    }
+
+.technologia .tooltiptext {
+    visibility: hidden;
+    width: 240px;
+    background-color: #F4A460;
+    color:white;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 15px;
+    margin-right:6px;
+       position:absolute;
+         font-size:18px;
+     
+    z-index: 1;
+}
+
+
+.technologia:hover .tooltiptext {
+    visibility: visible;
+}
+
+
+   
+             .itsuv {
+color: #7EC0EE;
+    font-size: 25px;
+    width: 100%;
+    text-align: center;
+    float: none;
+    letter-spacing: 0.1em;
+    padding-bottom: 1.6em;
+               
+           
+}
+ .itsuv :hover {
+    color: #F4A460;
+ 
+}
+
+ 
+.itsuv .tooltiptext {
+   visibility: hidden;
+    width: 240px;
+    background-color: #F4A460;
+    color:white;
+    text-align: center;
+    padding: 5px 0;
+    border-radius: 15px;
+    margin-right:6px;
+       position:absolute;
+         font-size:18px;
+     
+    z-index: 1;
+}
+
+
+                .itsuv:hover .tooltiptext {
+                    visibility: visible;
+                
+                }
+
+
+.header h2 {
+    color: #FFA500;
+    font-weight: 200;
+    font-size: 30px;
+    width: 70%;
+    padding-bottom: 1em;
+    letter-spacing: 0.05em;
+    margin-bottom:20px;
+    margin-top: auto;
+    margin-right: auto;
+    margin-left: auto;
+
+    padding-top:1em;
+  
+}
+
+
+  
+.contact {
+
+       background-color:#4682B4;
+          color:#F0F8FF;
+        font-weight: 150;
+          font-size: 35px;
+        width: 80%;
+         letter-spacing: 0.02em;
+         margin-bottom:0.01px;
+    margin-top:outo;
+    margin-right: auto;
+    margin-left: auto;
+       border-radius: 15px;
+       
+   
+   
+}
+p{
+    
+     font-size: 23px;
+      margin-right: auto;
+    margin-left: auto;
+    margin-bottom:auto;
+    margin-top:auto;
+
+}
+label {
+       
+        
+        font-weight: 100;
+          font-size: 18px;
+         letter-spacing: 0.01em;
+    margin-right: auto;
+
+
+}
+
+a:hover {
+    opacity: 0.5;
+   
+    
+       
+}
